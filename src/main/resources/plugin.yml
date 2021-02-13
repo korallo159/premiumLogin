@@ -1,0 +1,5 @@
+name: PremiumLogin
+version: ${project.version}
+main: koral.premiumlogin.PremiumLogin
+api-version: 1.16
+depend: [AuthMe]
